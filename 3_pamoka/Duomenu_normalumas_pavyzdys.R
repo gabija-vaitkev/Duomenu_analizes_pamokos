@@ -1,5 +1,5 @@
 # Kodinis darbinio aplanko nustatymas (reikia suvesti kelią į savo darbinį aplanką):
-setwd("C:/Users/X/Documents/.../Jusu_aplankas").
+setwd("C:/Users/gabij/Documents/Biomatika/Pamokos_fortui/3_pamoka")
 
 # Norint patikrinti darbinę direktoriją, naudojame:
 getwd()
