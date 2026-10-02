@@ -86,3 +86,31 @@ ggplot(iris, aes(x = Sepal.Length, y = Petal.Length, color = Species)) +
     y = "Žiedlapio ilgis (cm)"
   ) +
   theme_minimal()
+
+# Kaip išsaugoti grafikus kaip aukštos raiškos paveikslėlius?
+# Nepamirštame nusistatyti darbinės direktorijos
+# Kodinis darbinio aplanko nustatymas (reikia suvesti kelią į savo darbinį aplanką):
+setwd("C:/Users/gabij/Documents/Biomatika/Pamokos_fortui/4_pamoka")
+
+# Norint patikrinti darbinę direktoriją, naudojame:
+getwd()
+
+# Naudojame ankstesnį diagramos kodą, tik suteikiame jam pavadinimą
+p1 <- ggplot(iris, aes(x = Sepal.Length)) +
+  geom_histogram(
+    binwidth = 0.3,         # control bar width
+    fill = "#D3D3FF",       # custom color
+    color = "black"
+  ) +
+  labs(
+    title = "Taurėlapių ilgio pasiskirstymas",
+    x = "Taurėlapio ilgis (cm)",
+    y = "Dažnis"
+  ) +
+  theme_minimal()
+
+p1
+
+# Panaudojame kodą išsaugojimui
+ggsave("histograma.png", p1, 
+       width = 6, height = 5, dpi = 300, units = "in")
