@@ -13,7 +13,7 @@ data <- Reakcijos_laiko_sintetiniai_duomenys
 # kuris yra naudingas ateityje norint išsaugoti, 
 # pakartoti ar automatizuoti analizes;
 # Nurodoma dokumento direktorija:
-data <- read.csv('C:/Users/User/Desktop/Duomenu analize/1_pamoka/Reakcijos_laiko_sintetiniai_duomenys.csv', 
+data <- read.csv('C:/Users/User/Desktop/Duomenu analize II grupe/1_pamoka/Reakcijos_laiko_sintetiniai_duomenys.csv', 
                  header=TRUE, sep = ",", stringsAsFactors=T)
 
 # Duomenų santrauka:
