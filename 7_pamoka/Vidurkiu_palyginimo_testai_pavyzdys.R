@@ -265,7 +265,6 @@ my_data$dose <- factor(my_data$dose,
                        labels = c("D0.5", "D1", "D2"))
 head(my_data)
 
-
 # Patikriname duomenų normalumą
 library(dplyr)
 
@@ -278,7 +277,6 @@ normality_tests <- my_data %>%
 
 normality_tests
 
-
 # Dėžučių diagrama
 library(ggplot2)
 
@@ -287,7 +285,6 @@ ggplot(my_data, aes(x = dose, y = len, fill = supp)) +
   scale_fill_manual(values = c("#00AFBB", "#E7B800")) +
   labs(x = "dose", y = "len", fill = "supp") +
   theme_minimal(base_size = 14)
-
 
 # Linijinė diagrama
 library(ggplot2)
@@ -304,7 +301,6 @@ ggplot(my_data, aes(x = dose, y = len, group = supp, color = supp)) +
   scale_color_manual(values = c("#00AFBB", "#E7B800")) +
   labs(x = "dose", y = "len", color = "supp") +
   theme_minimal(base_size = 14)
-
 
 # Dviejų veiksnių anova - * naudojame kai norime patikrinti
 # ar yra sąveika tarp 2 nepriklausomų kintamųjų
