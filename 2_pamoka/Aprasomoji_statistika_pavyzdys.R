@@ -7,7 +7,7 @@ getwd()
 # Dokumento įsikėlimas: File -> Import Dataset -> From Text (base)
 
 # Pervadiname duomenis (jei duomenis įsikėlėme "User friendly" būdu)
-data <- Reakcijos_laiko_sintetiniai_duomenys 
+data <- Egzaminu_pazymiai_sintetiniai_duomenys 
 
 ##################################################
 # Kodu grįstas duomenų įkėlimo būdas, ############
