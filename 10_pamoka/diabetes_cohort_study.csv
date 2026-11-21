@@ -1,0 +1,131 @@
+Patient_ID,Treatment_group,Sex,Age_years,Smoking_status,Physical_activity,BMI,HbA1c_baseline_pct,HbA1c_6months_pct,Fasting_glucose_mmolL,Systolic_BP_mmHg,HDL_cholesterol_mmolL,LDL_cholesterol_mmolL,Triglycerides_mmolL,Weekly_exercise_hrs,Achieved_glycemic_target
+PAT_001,Metformin,Male,57,Never,Sedentary,31.9,8.9,8.1,11.6,145,1.01,3.11,3.48,1.2,Yes
+PAT_002,Combined,Female,50,Never,Sedentary,31.9,6.7,5.5,6.8,124,1.16,2.98,1.29,1.1,Yes
+PAT_003,Combined,Female,63,Former,Moderate,29.8,9.1,6.7,11.8,138,1.18,3.93,3.6,4.1,Yes
+PAT_004,Metformin,Male,59,Current,Moderate,33.2,8.7,8.4,9.4,149,1.08,2.91,1.33,5.3,Yes
+PAT_005,Combined,Female,59,Former,Active,28.9,8.1,6.7,8.5,134,1.63,3.7,1.5,9.5,No
+PAT_006,Lifestyle intervention,Male,69,Never,Moderate,31.5,8.0,6.7,10.8,161,1.15,3.6,1.8,4.9,Yes
+PAT_007,Metformin,Female,46,Never,Moderate,45.9,7.7,7.1,7.3,118,1.39,2.38,5.68,2.4,No
+PAT_008,Lifestyle intervention,Female,61,Former,Sedentary,33.0,8.0,7.1,10.8,132,1.23,3.34,5.38,0.7,No
+PAT_009,Metformin,Female,66,Never,Active,33.0,8.7,7.5,10.8,141,1.29,3.35,7.31,7.3,No
+PAT_010,Lifestyle intervention,Female,52,Current,Active,28.9,9.2,7.7,6.6,127,1.37,4.64,9.0,4.6,No
+PAT_011,Combined,Male,51,Never,Moderate,21.2,7.4,5.8,10.1,130,1.17,2.47,9.0,3.8,Yes
+PAT_012,Metformin,Male,55,Former,Active,38.8,7.2,5.6,10.6,132,0.96,2.68,5.3,8.6,Yes
+PAT_013,Combined,Female,60,Former,Moderate,49.1,9.8,8.2,7.8,136,0.88,2.69,7.3,4.8,Yes
+PAT_014,Combined,Male,36,Former,Active,40.9,8.4,6.4,10.2,148,0.96,4.03,1.81,6.5,Yes
+PAT_015,Combined,Female,59,Current,Active,35.5,9.6,8.8,7.0,117,1.41,4.06,2.03,8.6,No
+PAT_016,Metformin,Male,56,Current,Sedentary,32.7,7.9,6.9,10.6,135,1.34,3.02,1.59,2.5,Yes
+PAT_017,Lifestyle intervention,Female,58,Current,Active,38.0,7.4,6.2,8.8,119,1.17,3.59,4.88,6.4,Yes
+PAT_018,Metformin,Male,65,Current,Sedentary,31.7,10.5,9.6,11.5,151,1.01,3.65,1.99,1.2,No
+PAT_019,Lifestyle intervention,Female,51,Never,Moderate,44.9,9.0,9.0,10.8,139,1.15,2.58,0.71,4.7,No
+PAT_020,Metformin,Female,41,Never,Active,28.0,9.9,8.6,12.3,134,1.09,2.12,1.48,6.9,No
+PAT_021,Metformin,Male,62,Never,Moderate,29.7,7.3,6.3,10.5,143,1.16,3.86,1.98,2.5,Yes
+PAT_022,Lifestyle intervention,Female,55,Never,Sedentary,36.3,7.5,6.7,5.0,137,1.31,2.43,2.84,0.9,Yes
+PAT_023,Lifestyle intervention,Female,54,Never,Active,43.4,10.5,9.6,14.9,134,1.08,3.31,3.15,9.1,No
+PAT_024,Combined,Male,58,Former,Sedentary,34.6,7.5,5.7,11.3,137,1.15,2.82,1.54,0.9,Yes
+PAT_025,Lifestyle intervention,Male,63,Never,Active,37.9,7.7,6.3,16.2,156,1.24,4.6,3.86,5.6,Yes
+PAT_026,Metformin,Male,66,Never,Moderate,42.6,6.9,5.9,11.8,122,0.95,2.16,5.33,3.7,Yes
+PAT_027,Combined,Male,39,Never,Sedentary,23.0,7.8,6.3,12.3,140,1.16,4.08,2.13,0.3,Yes
+PAT_028,Combined,Female,53,Never,Sedentary,39.8,8.0,8.2,8.4,133,1.04,1.95,3.12,0.6,No
+PAT_029,Combined,Female,44,Former,Sedentary,43.6,8.9,7.2,6.8,133,0.8,3.49,9.0,0.5,No
+PAT_030,Metformin,Female,78,Never,Moderate,32.1,10.6,10.0,12.0,135,1.26,3.95,2.92,2.8,No
+PAT_031,Metformin,Male,50,Former,Active,42.8,7.7,7.0,9.8,124,1.08,3.69,1.81,9.2,No
+PAT_032,Lifestyle intervention,Male,48,Current,Sedentary,52,7.2,6.5,8.1,143,1.14,4.11,2.18,0.7,Yes
+PAT_033,Lifestyle intervention,Female,72,Former,Moderate,34.2,9.3,8.7,13.1,137,1.02,3.79,1.83,2.5,No
+PAT_034,Combined,Male,53,Never,Moderate,39.2,7.5,6.5,11.0,154,1.2,3.98,0.63,3.5,Yes
+PAT_035,Metformin,Female,59,Current,Moderate,33.8,7.9,6.7,10.7,143,1.51,2.33,1.9,4.3,Yes
+PAT_036,Metformin,Male,45,Former,Moderate,39.4,8.8,8.5,13.7,154,0.86,2.53,2.4,0.6,No
+PAT_037,Metformin,Female,76,Current,Moderate,44.9,6.9,6.0,6.5,140,1.43,4.95,1.73,1.8,Yes
+PAT_038,Metformin,Male,56,Former,Sedentary,35.9,7.6,6.9,11.8,146,1.0,2.83,0.83,0.9,Yes
+PAT_039,Combined,Male,35,Never,Sedentary,37.5,9.2,8.2,13.7,148,0.96,2.54,0.65,1.0,No
+PAT_040,Combined,Female,64,Current,Sedentary,33.8,7.9,6.8,11.3,110,1.4,5.23,2.11,0.6,Yes
+PAT_041,Metformin,Male,58,Current,Moderate,36.1,6.7,6.5,11.0,149,1.14,3.13,1.68,3.9,No
+PAT_042,Metformin,Male,52,Current,Active,43.0,8.2,7.2,9.1,126,0.88,3.62,1.14,9.3,No
+PAT_043,Lifestyle intervention,Male,48,Never,Moderate,39.7,8.0,7.3,7.9,134,0.97,2.3,3.3,5.2,No
+PAT_044,Metformin,Male,61,Former,Active,32.5,7.3,6.5,7.0,168,1.06,1.98,6.43,10.6,Yes
+PAT_045,Combined,Male,35,Never,Sedentary,43.2,7.5,5.8,10.7,145,1.09,4.52,4.32,1.0,Yes
+PAT_046,Metformin,Female,61,Never,Moderate,37.2,8.2,7.0,12.5,136,1.63,2.99,9.0,4.0,Yes
+PAT_047,Metformin,Female,35,Never,Sedentary,34.5,6.5,5.7,10.1,108,1.22,3.82,1.79,1.0,Yes
+PAT_048,Metformin,Male,67,Never,Sedentary,31.6,8.8,8.4,11.2,138,1.24,1.81,6.68,0.7,No
+PAT_049,Combined,Male,62,Current,Sedentary,27.9,8.7,8.7,12.8,150,1.16,3.95,1.61,1.6,No
+PAT_050,Lifestyle intervention,Male,45,Current,Moderate,36.3,9.6,8.6,9.4,139,0.96,2.8,2.57,2.5,No
+PAT_051,Metformin,Female,54,Never,Sedentary,22.4,10.2,9.2,11.0,113,1.0,4.27,2.5,0.7,No
+PAT_052,Metformin,Female,60,Former,Sedentary,37.4,7.0,5.7,12.7,122,1.14,3.59,1.95,2.0,Yes
+PAT_053,Lifestyle intervention,Female,66,Never,Active,30.3,9.3,8.5,14.0,121,1.48,4.39,1.09,9.7,No
+PAT_054,Lifestyle intervention,Male,60,Never,Active,35.5,10.4,9.6,13.3,165,0.89,2.15,1.68,8.9,No
+PAT_055,Metformin,Female,48,Never,Sedentary,36.4,8.2,7.2,12.5,131,0.95,2.2,5.15,0.3,No
+PAT_056,Metformin,Male,53,Current,Moderate,30.3,9.1,8.2,11.1,132,1.33,2.49,4.57,3.6,No
+PAT_057,Combined,Male,35,Never,Active,39.9,9.3,6.8,10.7,136,0.99,2.73,5.85,11.1,Yes
+PAT_058,Combined,Female,46,Never,Sedentary,31.0,8.5,6.7,15.1,124,1.46,4.42,0.9,0.9,No
+PAT_059,Combined,Male,65,Never,Moderate,26.1,7.4,5.5,10.7,148,1.18,4.3,7.72,4.9,Yes
+PAT_060,Combined,Female,56,Former,Moderate,38.4,7.2,5.5,12.9,137,1.26,3.28,2.8,4.9,Yes
+PAT_061,Metformin,Female,47,Former,Sedentary,27.5,9.0,8.2,11.3,137,1.57,2.19,2.27,1.6,No
+PAT_062,Metformin,Female,49,Former,Moderate,31.1,8.5,7.4,13.0,140,1.5,3.87,3.58,4.7,No
+PAT_063,Combined,Female,52,Current,Sedentary,35.1,9.8,9.0,11.8,130,1.23,2.31,3.77,0.7,No
+PAT_064,Lifestyle intervention,Male,48,Never,Moderate,26.1,8.0,6.7,7.2,148,1.12,4.34,8.42,5.9,Yes
+PAT_065,Metformin,Male,67,Current,Sedentary,41.1,7.0,5.7,9.8,157,1.35,3.02,2.33,0.6,Yes
+PAT_066,Combined,Male,58,Former,Sedentary,38.1,8.8,7.5,13.7,139,0.94,3.57,1.85,1.6,No
+PAT_067,Combined,Male,43,Never,Moderate,43.7,8.5,7.1,16.1,115,1.04,3.54,2.21,4.0,No
+PAT_068,Combined,Male,54,Current,Moderate,33.6,8.2,7.1,8.6,151,1.05,3.85,3.6,4.3,No
+PAT_069,Combined,Female,65,Current,Moderate,33.9,8.4,7.4,9.1,115,1.31,2.93,4.81,3.6,No
+PAT_070,Lifestyle intervention,Male,49,Never,Sedentary,33.6,6.5,6.1,7.1,136,1.24,1.47,2.23,2.6,Yes
+PAT_071,Combined,Male,47,Former,Sedentary,41.3,10.4,8.3,11.2,139,1.16,2.65,2.42,1.0,No
+PAT_072,Combined,Male,66,Never,Sedentary,42.6,8.2,7.1,7.4,147,1.11,3.83,5.76,1.1,No
+PAT_073,Combined,Male,53,Former,Active,25.7,8.5,5.5,15.8,173,1.3,4.21,1.79,8.4,Yes
+PAT_074,Metformin,Female,62,Never,Sedentary,36.1,8.0,7.0,11.1,120,1.39,3.12,1.22,1.0,No
+PAT_075,Metformin,Female,43,Current,Moderate,26.0,7.5,6.6,10.6,139,1.33,4.44,5.95,4.7,Yes
+PAT_076,Lifestyle intervention,Female,75,Current,Moderate,34.7,6.9,6.6,10.9,124,1.46,1.68,1.43,4.3,Yes
+PAT_077,Lifestyle intervention,Female,40,Never,Moderate,31.4,6.8,6.4,11.2,130,1.36,4.38,2.26,2.9,No
+PAT_078,Metformin,Male,59,Never,Sedentary,40.0,7.0,6.5,9.1,135,0.6,4.36,9.0,1.1,Yes
+PAT_079,Lifestyle intervention,Male,59,Former,Moderate,45.2,6.8,6.4,10.8,124,0.82,3.08,4.49,5.4,Yes
+PAT_080,Metformin,Female,37,Current,Moderate,37.4,7.1,5.6,9.7,147,1.58,4.07,1.42,4.6,Yes
+PAT_081,Combined,Female,62,Former,Sedentary,24.9,11.1,9.6,8.8,123,1.45,3.66,4.21,3.0,No
+PAT_082,Lifestyle intervention,Male,60,Former,Active,22.5,7.7,7.1,12.1,123,1.04,2.99,2.06,9.3,Yes
+PAT_083,Metformin,Male,62,Former,Sedentary,41.2,8.8,7.5,9.2,123,0.76,3.38,9.0,0.8,No
+PAT_084,Lifestyle intervention,Male,41,Former,Active,45.8,6.5,5.5,13.8,143,0.7,4.55,1.68,7.9,Yes
+PAT_085,Lifestyle intervention,Female,37,Never,Moderate,29.0,8.8,8.2,8.8,132,1.6,3.02,4.33,4.4,No
+PAT_086,Combined,Male,51,Former,Sedentary,23.4,9.2,7.6,14.0,138,0.95,2.46,4.93,1.2,No
+PAT_087,Combined,Male,39,Never,Moderate,33.6,8.3,6.7,11.5,107,0.8,4.29,4.16,3.1,Yes
+PAT_088,Metformin,Male,40,Never,Moderate,22.1,7.9,6.9,13.2,155,1.38,2.77,0.82,4.5,No
+PAT_089,Lifestyle intervention,Female,65,Former,Moderate,41.4,7.3,6.7,17.9,133,1.25,2.76,1.16,3.7,Yes
+PAT_090,Metformin,Male,55,Current,Sedentary,23.8,8.3,7.7,8.7,132,1.52,2.07,1.45,2.7,No
+PAT_091,Combined,Male,35,Never,Sedentary,29.6,7.4,6.3,13.4,131,1.37,5.0,1.69,2.1,Yes
+PAT_092,Metformin,Female,54,Former,Moderate,44.9,7.5,7.2,12.9,149,1.25,2.25,1.22,4.6,No
+PAT_093,Combined,Female,58,Former,Active,27.2,8.1,5.9,9.1,119,1.7,3.6,5.06,5.6,Yes
+PAT_094,Combined,Female,38,Never,Sedentary,28.8,8.2,8.2,11.2,151,1.18,3.32,1.82,0.6,Yes
+PAT_095,Metformin,Male,72,Never,Moderate,27.2,6.6,5.5,10.2,146,1.08,2.48,2.55,4.3,Yes
+PAT_096,Lifestyle intervention,Female,43,Never,Sedentary,25.0,7.3,6.6,9.1,132,1.76,3.1,2.31,1.9,Yes
+PAT_097,Metformin,Male,57,Never,Sedentary,34.3,9.7,8.6,14.7,127,1.11,3.04,2.95,3,No
+PAT_098,Combined,Male,50,Former,Active,28.6,9.9,7.0,11.0,137,1.11,3.94,6.72,5.3,Yes
+PAT_099,Combined,Female,56,Never,Sedentary,22.9,7.7,5.5,10.0,125,1.38,3.61,2.72,0.8,Yes
+PAT_100,Lifestyle intervention,Female,77,Former,Sedentary,34.4,10.4,9.8,11.1,127,1.62,4.25,4.77,0.7,No
+PAT_101,Metformin,Male,56,Former,Sedentary,36.9,7.6,6.7,11.2,130,1.11,3.73,4.92,1.3,Yes
+PAT_102,Metformin,Male,43,Never,Moderate,33.2,6.5,5.8,16.4,154,0.92,3.46,1.8,4.7,Yes
+PAT_103,Lifestyle intervention,Male,64,Current,Active,38.6,6.8,5.9,9.8,147,0.95,3.94,1.02,8.4,Yes
+PAT_104,Lifestyle intervention,Male,59,Former,Sedentary,35.1,7.2,6.4,11.8,157,1.14,2.22,2.27,1.2,Yes
+PAT_105,Lifestyle intervention,Female,63,Never,Active,26.7,9.4,8.7,10.8,124,1.43,2.53,1.2,9.4,Yes
+PAT_106,Combined,Female,50,Current,Sedentary,39.8,10.0,9.1,14.1,118,1.16,3.57,3.87,2.2,No
+PAT_107,Lifestyle intervention,Male,61,Never,Sedentary,38.9,8.7,7.8,9.1,129,0.78,2.59,2.7,2.4,No
+PAT_108,Lifestyle intervention,Female,47,Never,Moderate,31.4,7.7,6.7,6.4,117,0.99,2.61,2.01,1.0,Yes
+PAT_109,Metformin,Male,57,Never,Active,27.4,7.5,6.1,16.1,135,1.29,1.78,0.5,7.0,No
+PAT_110,Lifestyle intervention,Female,60,Former,Sedentary,34.3,8.7,7.4,10.5,146,1.47,3.19,2.37,0.4,No
+PAT_111,Combined,Female,42,Current,Moderate,24.6,8.7,7.0,11.0,133,1.5,3.68,2.52,4.6,No
+PAT_112,Metformin,Male,58,Former,Moderate,33.5,7.9,6.5,9.3,148,0.69,2.76,2.65,2.8,Yes
+PAT_113,Combined,Female,46,Former,Moderate,28.6,8.2,6.3,8.6,131,1.5,3.26,5.39,5.0,Yes
+PAT_114,Metformin,Male,57,Never,Moderate,39.4,7.8,6.7,9.5,148,1.1,3.56,7.91,2.8,Yes
+PAT_115,Metformin,Male,66,Former,Moderate,25.9,8.1,7.7,11.6,122,1.03,1.48,1.51,3.4,No
+PAT_116,Combined,Male,46,Former,Active,33.8,9.3,8.3,8.7,149,1.03,2.54,1.87,6.8,No
+PAT_117,Combined,Female,37,Never,Sedentary,30.8,7.6,5.9,14.6,121,1.17,2.83,2.86,3,Yes
+PAT_118,Metformin,Female,50,Never,Moderate,39.3,9.1,8.7,7.5,139,1.09,2.41,1.48,3.9,No
+PAT_119,Combined,Female,59,Former,Active,35.5,6.5,5.5,13.1,121,1.23,2.85,2.04,8.1,Yes
+PAT_120,Lifestyle intervention,Male,42,Former,Sedentary,43.1,9.9,9.1,6.2,134,1.1,2.69,1.16,1.3,No
+PAT_121,Combined,Male,71,Former,Sedentary,33.8,9.2,8.1,9.8,139,1.21,4.42,3.54,0.8,No
+PAT_122,Lifestyle intervention,Female,43,Former,Sedentary,30.4,10.8,9.6,8.0,133,1.39,2.1,3.43,0.7,No
+PAT_123,Lifestyle intervention,Female,58,Former,Active,31.1,8.0,7.1,11.7,146,1.35,3.27,1.81,8.7,No
+PAT_124,Lifestyle intervention,Female,45,Never,Active,33.4,10.7,10.4,13.6,141,1.08,2.78,2.25,7.1,No
+PAT_125,Lifestyle intervention,Male,76,Never,Sedentary,33.2,7.5,6.4,12.1,129,1.26,3.0,5.95,1.0,Yes
+PAT_126,Metformin,Male,58,Never,Sedentary,28.0,8.7,7.3,10.9,121,1.17,2.63,2.25,1.8,No
+PAT_127,Metformin,Female,50,Former,Sedentary,35.9,8.0,6.2,8.2,125,1.12,2.85,5.87,1.5,Yes
+PAT_128,Metformin,Male,51,Former,Moderate,35.9,9.2,7.5,8.4,157,0.85,2.91,2.61,3.9,No
+PAT_129,Lifestyle intervention,Female,53,Never,Moderate,44.0,8.6,8.4,10.6,126,1.43,3.42,3.24,4.5,No
+PAT_130,Combined,Female,47,Never,Active,37.3,10.2,7.8,9.2,110,1.33,3.32,1.54,9.4,Yes
